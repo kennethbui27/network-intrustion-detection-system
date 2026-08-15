@@ -1,0 +1,3 @@
+nids
+*.o
+.DS_Store
